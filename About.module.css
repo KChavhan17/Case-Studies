@@ -1,0 +1,37 @@
+.about {
+  max-width: 660px;
+}
+
+.about h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  margin: 0 0 1.5rem;
+}
+
+.lead {
+  font-size: 1.2rem;
+  color: #374151;
+  line-height: 1.75;
+  margin: 0 0 3rem;
+}
+
+.about section {
+  margin-bottom: 2.5rem;
+}
+
+.about h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+}
+
+.about p {
+  color: #374151;
+  line-height: 1.8;
+  margin: 0;
+}
+
+.about a {
+  color: #2563eb;
+  text-decoration: underline;
+}
+
