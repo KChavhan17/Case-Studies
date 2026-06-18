@@ -1,0 +1,24 @@
+{
+  "title": "E-Commerce Checkout Redesign",
+  "summary": "Reduced cart abandonment by 34% through a streamlined, mobile-first checkout flow.",
+  "date": "2024-09-01",
+  "client": "Retail Co.",
+  "role": "Lead Product Designer",
+  "duration": "3 months",
+  "tags": ["UX Design", "Mobile", "E-Commerce"],
+  "sections": [
+    {
+      "heading": "Problem",
+      "body": "Users were dropping off at the payment step due to a cluttered, multi-page flow with unclear error states."
+    },
+    {
+      "heading": "Approach",
+      "body": "Ran usability sessions with 12 participants, mapped the existing journey, and prototyped a single-page checkout with inline validation."
+    },
+    {
+      "heading": "Outcome",
+      "body": "34% reduction in cart abandonment. Mobile conversion up 21% quarter-over-quarter."
+    }
+  ]
+}
+
