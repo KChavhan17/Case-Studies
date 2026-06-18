@@ -1,0 +1,33 @@
+.article { max-width: 720px; }
+.header { margin-bottom: 4rem; }
+.header h1 { font-size: clamp(1.75rem, 4vw, 2.75rem); margin: 0.5rem 0 1rem; }
+
+.tags { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem; }
+.tag {
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+.summary { font-size: 1.15rem; color: #374151; line-height: 1.7; }
+
+.meta {
+  display: flex;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.meta div { display: flex; flex-direction: column; gap: 0.25rem; }
+.meta dt { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #9ca3af; }
+.meta dd { font-size: 0.9rem; font-weight: 500; margin: 0; }
+
+.section { margin-bottom: 3rem; }
+.section h2 { font-size: 1.25rem; margin: 0 0 0.75rem; }
+.section p { color: #374151; line-height: 1.8; margin: 0; }
+
